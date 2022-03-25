@@ -103,7 +103,7 @@ Para a realização do objetivo da aplicação, são utilizados recursos do Open
 Seja qual for o endpoint escolhido para executar a aplicação, o resultado será o mesmo:
 </p><br>
 
-![Screenshot](https://github.com/Tarcisio-Souto/recommendations_api_spotify/blob/main/capturas/endpoint_city.PNG)
+![Screenshot](https://github.com/Tarcisio-Souto/recommendations_api_spotify/blob/main/capturas/result_json.PNG)
 
 <br><br>
 
