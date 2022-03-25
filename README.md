@@ -105,5 +105,7 @@ Seja qual for o endpoint escolhido para executar a aplicação, o resultado ser�
 
 ![Screenshot](https://github.com/Tarcisio-Souto/recommendations_api_spotify/blob/main/capturas/endpoint_city.PNG)
 
+<br><br>
 
+><p>TSS - Vitória/ES - 2022</p>
 
